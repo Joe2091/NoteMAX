@@ -1,0 +1,12 @@
+{
+  "name": "NoteMax",
+  "version": "1.0.0",
+  "description": "A notes browser extension built for Google Chrome",
+  "manifest_version": 3,
+
+  "action": {
+    "default_popup": "index.html"
+  },
+
+  "permissions": ["storage"]
+}
